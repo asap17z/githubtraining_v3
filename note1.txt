@@ -1,2 +1,4 @@
 memo for note1
 this a stash tutorial
+stash example in note1
+stash example for untracked files
