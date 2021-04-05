@@ -1,1 +1,2 @@
 stash example for untracked files
+note45 consisted of information that contain details with reguard to the current update
